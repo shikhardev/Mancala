@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.shikhardev.mancala"},{"l":"com.shikhardev.mancala.controllers"},{"l":"com.shikhardev.mancala.dto"},{"l":"com.shikhardev.mancala.models"},{"l":"com.shikhardev.mancala.services"}]

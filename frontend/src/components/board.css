@@ -1,0 +1,19 @@
+.board-wrapper {
+  display: flex;
+  justify-content: center;
+  min-width: 800px;
+}
+
+.board {
+  flex: 1;
+}
+
+.board-up {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.board-down {
+  display: flex;
+  flex-direction: row;
+}
