@@ -1,0 +1,2 @@
+# Mancala
+Mancala web game
